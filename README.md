@@ -7,7 +7,7 @@ The link for website is - https://globalgatewaytour.vercel.app/
 
 A responsive and modern travel booking landing page built using **React** and **Tailwind CSS**, designed to showcase destinations and promote travel packages.
 
-🔗 **Live Demo**: [https://tour-travel-saharsh.vercel.app](https://tour-travel-saharsh.vercel.app)  
+🔗 **Live Demo**: [https://globalgatewaytour.vercel.app](https://globalgatewaytour.vercel.app)  
 📁 **GitHub Repo**: [https://github.com/saharsh3008/project_tour-travel](https://github.com/saharsh3008/project_tour-travel)
 
 ---
